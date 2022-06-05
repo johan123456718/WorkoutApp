@@ -1,0 +1,15 @@
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\bin\Debug\netstandard2.0\WorkoutApp.deps.json
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\bin\Debug\netstandard2.0\WorkoutApp.dll
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\bin\Debug\netstandard2.0\WorkoutApp.pdb
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.csproj.AssemblyReference.cache
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.AssemblyInfo.cs
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.dll
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\refint\WorkoutApp.dll
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\WorkoutApp.pdb
+C:\Users\johan\Documents\dev\Android\WorkoutApp\WorkoutApp\WorkoutApp\obj\Debug\netstandard2.0\ref\WorkoutApp.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb1CxQh+RdWD4CVI/N5HAj0FN2wClgc4VOxS4GE5LIczv5RnohoJcbaPGw6mx6kLj0PvG140K2iW1tLzdPItyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan\\Documents\\dev\\Android\\WorkoutApp\\WorkoutApp\\WorkoutApp.iOS\\WorkoutApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
